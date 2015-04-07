@@ -1,0 +1,6 @@
+C:\Users\daizhen\GitOpenProjects\RapidExp\RapidExp\bin\Debug\RapidExp.exe.config
+C:\Users\daizhen\GitOpenProjects\RapidExp\RapidExp\obj\Debug\RapidExp.csprojResolveAssemblyReference.cache
+C:\Users\daizhen\GitOpenProjects\RapidExp\RapidExp\bin\Debug\RapidExp.exe
+C:\Users\daizhen\GitOpenProjects\RapidExp\RapidExp\bin\Debug\RapidExp.pdb
+C:\Users\daizhen\GitOpenProjects\RapidExp\RapidExp\obj\Debug\RapidExp.exe
+C:\Users\daizhen\GitOpenProjects\RapidExp\RapidExp\obj\Debug\RapidExp.pdb
